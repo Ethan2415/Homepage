@@ -9,7 +9,7 @@
 
 # Homepage
 
-_Hi, This is Qinpeng Yi's Homepage._
+Hi, This is Qinpeng Yi's Homepage.
 
 </header>
 

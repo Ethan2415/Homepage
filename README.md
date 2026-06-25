@@ -9,7 +9,7 @@
 
 # Homepage
 
-Hi, This is Qinpeng Yi's Homepage.
+Hi, This is Qinpeng's Homepage.
 
 </header>
 
@@ -23,7 +23,7 @@ Hi, This is Qinpeng Yi's Homepage.
 ## About me
 
 I am now a postgraduate student majoring in **computer science** at South China University of Technology.
-My research interests include **object detection, 3D object manipulation**. Currently I do not have any publication, but I shall have one or two in the next years.
+Currently I do not have any publication, but I shall have one or two in the next years.
 
 
 
